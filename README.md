@@ -1,4 +1,5 @@
 # Personalized Travel Itinerary Planner 🌍✈️
+> GitHub repository name: `personal-itenary-planner`
 
 An AI-powered web application that generates personalized, day-by-day travel itineraries based on destination, travel dates, budget, travel style, interests, accommodation preferences, and dietary restrictions.
 
